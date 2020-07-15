@@ -27,6 +27,7 @@ or launch key teleop
     * roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
     
 When you draw the entire environment save it using the map_server package, it will be stored in HOME, the last part is responsable for the location of save
+
     * rosrun map_server map_saver -f ~/map
 
 
