@@ -16,7 +16,7 @@ Start SLAM in a new terminal tab
 
     * roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
     
-in order to build the mao of the environment you need to navigate through the entire environment, you can do this by either starting autonomous navigation or manually using keyboard
+in order to build the map of the environment you need to navigate through the entire environment, you can do this by either starting autonomous navigation or manually using keyboard
 
 Start autonomous navigation in a new terminal tab
 
