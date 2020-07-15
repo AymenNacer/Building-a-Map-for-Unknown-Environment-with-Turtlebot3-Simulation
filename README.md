@@ -16,7 +16,7 @@ Start SLAM in a new terminal tab
 
     * roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
     
-in order to build the environment you need to navigate through the entire environment, you can do this by either starting autonomous navigation or manually using keyboard
+in order to build the mao of the environment you need to navigate through the entire environment, you can do this by either starting autonomous navigation or manually using keyboard
 
 Start autonomous navigation in a new terminal tab
 
@@ -26,7 +26,7 @@ or launch key teleop
 
     * roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
     
-When you draw the entire environment save it using the map_server package
+When you draw the entire environment save it using the map_server package, it will be stored in HOME, the last part is responsable for the location of save
     * rosrun map_server map_saver -f ~/map
 
 
