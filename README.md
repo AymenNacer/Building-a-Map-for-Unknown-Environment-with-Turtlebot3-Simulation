@@ -1,5 +1,5 @@
 # Building-a-Map-for-Unknown-Environment-with-Turtlebot3-Simulation
-Building a map for unkown environment using SLAM, Simultaneous localization and mapping (SLAM) concerns the problem of a robot building or updating a map of an unknown environment while simultaneously keeping track its location in that environment.
+Building a map for unkown environment with SLAM using ROS, Simultaneous localization and mapping (SLAM) concerns the problem of a robot building or updating a map of an unknown environment while simultaneously keeping track its location in that environment.
 it was executed using Ubuntu 16.04.6 LTS and ROS kinetic
 
 Install the SLAM module 
